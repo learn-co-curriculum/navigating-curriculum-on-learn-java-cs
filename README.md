@@ -4,9 +4,9 @@
 
 At this point, you've already created a Learn account, set up your local development environment, and confirmed that your dev environment can talk to Learn. Great!
 
-Now, you're here in Learn, ready to start learning.
+Now, you're here in Learn and ready to start learning.
 
-Before you start learning, let's just get a little more familiar with how Learn works. In the handful of lessons that follow, we'll walk you through a few things:
+Before you start, let's just get a little more familiar with how Learn works. In the handful of lessons that follow, we'll walk you through a few things:
 
 1. How content is organized on Learn
 2. How to use your Terminal
