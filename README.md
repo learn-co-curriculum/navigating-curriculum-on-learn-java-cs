@@ -67,3 +67,5 @@ Once you've completed a README, you should click the "I'm Done" button on the ri
 Seeing as this lesson is a README, you're now done and ready to go to the next lesson. Click the "I'm Done" button and proceed to the next lesson.
 
 Happy Learning!
+
+<a href='https://learn.co/lessons/navigating-curriculum-on-learn' data-visibility='hidden'>View this lesson on Learn.co</a>
