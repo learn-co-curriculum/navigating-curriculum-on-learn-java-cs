@@ -22,9 +22,11 @@ The individual pieces of curriculum on Learn are called "lessons."
 
 A "track" is composed of many lessons, often organized into topics.
 
-The column to the left is the Track Navigation, which allows you to expand topics and units and move between lessons.
+Click on the track name above to pop open Track Navigation, which allows you to view topics and units and move between lessons. 
 
-![Navigation](https://dl.dropboxusercontent.com/s/0wsaxtpb8ew5jad/2015-09-30%20at%209.37%20PM.png)
+![Click for Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/osx_click_here_for_track.png)
+
+![View Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/osx_track_nav%20down.png)
 
 You must complete a lesson before you advance to the next one.
 
