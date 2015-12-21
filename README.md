@@ -46,7 +46,7 @@ In the following lessons, we're going to show you how to use `git` and GitHub to
 
 You'll know if a lesson on Learn is a lab by the actions the right column asks you to take. Labs will display the following in the right:
 
-![Lab](https://dl.dropboxusercontent.com/s/lzryoszkjec4bwv/2015-09-30%20at%2010.16%20PM.png)
+![Lab](https://curriculum-content.s3.amazonaws.com/intro-to-learn/right_rail_lab.png)
 
 #### READMEs
 
@@ -62,7 +62,9 @@ Some READMEs also contain brief interactive elements such as quizzes or little i
 
 Once you've completed a README, you should click the "I'm Done" button on the right. The "Next Lesson" button will light up, allowing you to proceed.
 
-![Mark as Done](https://dl.dropboxusercontent.com/s/beuipk0utcrxkxi/2015-09-30%20at%209.59%20PM.png)
+![Readme not done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/right_rail_readme_not_done.png)
+
+![Readme done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/right_rail_readme_done.png)
 
 ## Go!
 
