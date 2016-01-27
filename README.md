@@ -24,9 +24,9 @@ A "track" is composed of many lessons, often organized into topics.
 
 Click on the track name above to pop open Track Navigation, which allows you to view topics and units and move between lessons. 
 
-![Click for Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/osx_click_here_for_track.png)
+![Click for Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/navigating_curriculum.png)
 
-![View Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/osx_track_nav%20down.png)
+![View Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/navigating_curriculum_2.png)
 
 You must complete a lesson before you advance to the next one.
 
