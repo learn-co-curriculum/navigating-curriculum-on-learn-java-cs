@@ -22,7 +22,7 @@ The individual pieces of curriculum on Learn are called "lessons."
 
 A "track" is composed of many lessons, often organized into topics.
 
-Click on the track name above to pop open Track Navigation, which allows you to view topics and units and move between lessons. 
+Click on the track name above to pop open Track Navigation, which allows you to view topics and units and move between lessons.
 
 ![Click for Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/navigating_curriculum.png)
 
@@ -42,7 +42,7 @@ Labs are lessons with a coding challenge you must complete. A lab will require y
 
 All labs include a README that you will see on Learn. The lab README will describe the objectives, overview, and instructions for the code you must write. You should definitely read the lab README. If you're confused at any point, go back to the README.
 
-In the following lessons, we're going to show you how to use `git` and GitHub to work on a lab and how to automate everything by using our `learn` CLI.
+In the following lessons, we're going to show you how to use `git` and GitHub to work on a lab.
 
 You'll know if a lesson on Learn is a lab by the actions the right column asks you to take. Labs will display the following in the right:
 
